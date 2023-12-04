@@ -9,10 +9,10 @@ module.exports = {
     "./error.vue",
   ],
   theme: {
+    fontFamily: {
+      custom: ['Press Start 2P'],
+    },
     extend: {
-      fontFamily: {
-        custom: ['Custom1', 'sans-serif'],
-      },
 
     },
   },
